@@ -8,4 +8,4 @@
 - Now run app.py to see the gui on local host.  
   
   
-![](ss.png)
+![](screenshot.png)
